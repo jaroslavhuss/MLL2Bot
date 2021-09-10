@@ -10,6 +10,10 @@ The goal is as simple as possible. Detect monsters from the screenshot and get c
 
 **Data was labeled for Yolo - meaning - each picture has its .txt file! As a result I got data.weights - this file can be used by Darknet.**
 
+# All files available for download
+
+- [Images + labels + trained data](https://drive.google.com/file/d/1xVmimBWY1zi09KIUrOcHX1AzyYJDgNwr/view?usp=sharing)
+
 # What machine am I using?
 
 | OS           | WSL2 Ubuntu on Windows 10                         |
